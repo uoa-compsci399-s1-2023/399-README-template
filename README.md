@@ -7,17 +7,19 @@
 ## Technologies Used
 
 
-## Development
+## Installation Instructions
 
 
-## Configuration
+### Configuration
+
+## Usage Examples
 
 ## Deployment
 
 ## Future Plans
 
 
-## Acknowledgments
+## Acknowledgements
 
 
 
